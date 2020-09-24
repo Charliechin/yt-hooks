@@ -16,8 +16,8 @@ const App = () => {
 
   return (
     <div className="ui container">
-      <h1>App</h1>
-      <SearchBar onFormSubmit={search}>Searchhhh</SearchBar>
+      <h1>App!</h1>
+      <SearchBar onFormSubmit={search}></SearchBar>
       <div className="ui grid">
         <div className="ui row">
           <div className="eleven wide column">
